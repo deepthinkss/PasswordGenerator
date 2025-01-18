@@ -124,7 +124,7 @@ export default function App() {
 
     return (
       <View style={styles.container}>
-        <Text style={styles.title}>🔐 Password Generator</Text>
+        <Text style={styles.title}> Password Generator 🔐</Text>
         <TextInput
           style={styles.passwordInput}
           value={password}
@@ -253,7 +253,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#000', // Light mint color
+    backgroundColor: '#222', // Light mint color
     alignItems: 'center',
     justifyContent: 'center',
     padding: 30,
