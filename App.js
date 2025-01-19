@@ -253,7 +253,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#222', // Light mint color
+    backgroundColor: '#333', // Light mint color
     alignItems: 'center',
     justifyContent: 'center',
     padding: 30,
